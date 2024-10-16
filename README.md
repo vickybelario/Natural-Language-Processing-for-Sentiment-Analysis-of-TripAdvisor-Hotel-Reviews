@@ -1,2 +1,2 @@
 # Work In Progress
-# TripAdvisor-Hotel-Review-Sentiment-Analysis
+# Natural Language Processing for Sentiment Analysis of TripAdvisor Hotel Reviews
